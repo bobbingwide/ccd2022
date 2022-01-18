@@ -1,0 +1,8 @@
+{"styles":
+{"elements":
+{"link":
+{"typography":{"fontFamily":"\"Source Serif Pro\", serif"}}},
+  "typography":{"fontFamily":"var:preset|font-family|source-serif-pro"}},
+  "settings":{"blocks":{"core\/heading":{"color":{"palette":{"custom":[{"color":"#68916b","name":"Color 1 ","slug":"custom-color-1"}]}}}},
+    "color":{"palette":{"custom":[{"color":"#68916b","name":"Header background","slug":"custom-header-background"},
+      {"color":"#4d6b4f","name":"Darker header ","slug":"custom-darker-header"}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}

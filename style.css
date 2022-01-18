@@ -1,0 +1,32 @@
+/*
+Theme Name: Classic Car Doctor 2022
+Theme URI: https://github.com/bobbingwide/ccd2022
+Author: Herb Miller
+Description: Full Site Editing theme for classic-car-doctor.com
+Requires at least: 5.9-RC2
+Tested up to: 5.9-RC2
+Requires PHP: 7.3
+Version: 0.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: thisis
+*/
+
+body {
+
+}
+
+.wp-block-template-part.has-background {
+    padding: 0em 2.375em;
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+header div.tel { font-size: 28px; }
+header div.tel span.value { color: #ffffff;}
+
+
+.wp-block-separator.has-background:not(.is-style-dots) {
+    border-bottom: 1px solid white;
+    height: 2px;
+}
