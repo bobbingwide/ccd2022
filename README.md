@@ -3,13 +3,13 @@
 * Contributors: bobbingwide
 * Donate link: https://www.oik-plugins.com/oik/oik-donate/
 * Tags: blocks, FSE, Gutenberg, Full Site Editing
-* Requires at least: 5.9
-* Tested up to: 5.9
-* Version: 0.0.0
+* Requires at least: 6.7.1
+* Tested up to: 6.7.1
+* Version: 0.1.0
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Classic Car Doctor Full Site Editing theme for 2022
+Classic Car Doctor Full Site Editing theme for 2022 and beyond
 
 ## Description 
 Replacement theme for classic-car-doctor.com.
@@ -25,7 +25,7 @@ Requirements:
 5. Templates and template parts to be provided
 6. Use block plugins for functionality not yet supported
 7. or shortcodes when blocks are not yet available.
-8. Should look and feel the same with Gutenberg 12.3.* or above activated.
+8. Should look and feel the same with Gutenberg activated.
 
 
 * ### Contents: 
@@ -35,8 +35,6 @@ IMPLEMENTED:
 The `block-templates` developed so far are:
 
 * index.html -
-* page.html -
-* home.html -
 
 
 The `block-template-parts` are:
@@ -51,13 +49,17 @@ Some parts of this theme were copied from Twenty Twenty-Two including the Source
 
 ## Installation 
 
-* Install WordPress 5.9
+* Install WordPress 6.7.1
 * Install the ccd2022 theme
 * Activate the theme
 * Update each page to use blocks rather than shortcodes
 
 
 ## Change Log 
+# 0.1.0 
+* Added: Set background image on header
+* Tested With WordPress 6.7.1
+* Tested: With PHP 8.3 & PHP 8.4
 
 # 0.0.0 
 * Added: All the files to display the index.html page
@@ -71,11 +73,11 @@ Some parts of this theme were copied from Twenty Twenty-Two including the Source
 - I developed it in an afternoon using the (Site) Editor beta delivered in WordPress 5.9-RC2.
 - The background colours and gradients are a bit ugly.
 - But no worse or better than the original Artisteer theme.
-- It currently looks different with Gutenberg 12.3.2
+- It originally looked different with Gutenberg 12.3.2
 - This is due to changes to the template parts attributes supported by Gutenberg.
 
 ## Copyright 
-(C) Copyright Herb Miller, Bobbing Wide 2022
+(C) Copyright Herb Miller, Bobbing Wide 2022-2024
 
 * This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
